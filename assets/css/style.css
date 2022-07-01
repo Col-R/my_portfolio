@@ -324,6 +324,7 @@ section {
 --------------------------------------------------------------*/
 .facts {
   padding-bottom: 30px;
+  display: none;
 }
 .facts .count-box {
   padding: 30px;
@@ -645,6 +646,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
+  display: none;
 }
 .testimonials .testimonial-item {
   box-sizing: content-box;
