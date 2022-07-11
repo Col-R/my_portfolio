@@ -597,6 +597,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+#services {
+  display: none;
+}
+
 .services .icon-box {
   margin-bottom: 20px;
 }
@@ -761,6 +765,7 @@ section {
 .contact .info .email p {
   padding-top: 5px;
 }
+
 .contact .info .social-links {
   padding-left: 60px;
 }
